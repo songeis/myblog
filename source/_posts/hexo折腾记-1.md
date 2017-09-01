@@ -1,10 +1,14 @@
 ---
-title: 使用hexo和github搭建博客-1
+title: hexo折腾记-1
 date: 2017-08-28 17:01:43
 tags:
 - hexo
+categories:
+- 博客搭建
+description: hexo折腾记-1
 ---
-
+之前一直用github存md文档做日记，现在想来不如直接搭个hexo博客。既美观又能能学点东西。所以今天就学着搭建一下
+<!-- more -->
 # 0-环境准备
 0.1-安装node
 0.2-安装git
