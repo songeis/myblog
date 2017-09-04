@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
+<script>
+	var a = Symbol();
+	console.log(a);
+	var obj = {};
+	obj[a] = "初来乍到";
+	console.log(obj);
+	console.log(obj[Symbol()]);//undefined
+	console.log(obj[a]);
+	var b = Symbol('cut');
+	obj[b] = "砍啊";
+	console.log(obj[b]);
+	console.log(obj[Symbol('cut'));
+	console.log(obj[cut]);
+</script>
