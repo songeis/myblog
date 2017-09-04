@@ -5,7 +5,7 @@ tags:
 - es6
 categories:
 - 一周专题
-description: 上个礼拜简单的过了下深入浅出ES6有关symbol的章节 过眼不过心 这周打算啃啃同时上周本来打算封装一个弹窗插件的，但是发现一个是自己的知识不够扎实，另一个是眼界不够，偏而不全。所以这个月也打算把javascript设计模式与开发实践》这本书攻下来同时学习设计心理学这一套书并且练习ps。本来是等前端之巅的文章的但是上周，发现翻译一篇文章还是很费力气的所以这周打算拆分。文章选择为：https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201 已有大大翻译，纯粹练习 http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjQwMzUwMQ%3D%3D%26mid%3D2247484987%26idx%3D1%26sn%3D7f20da20bc6baed62ca8ff115209942b 愿下周前参悟透。落于实处，戒骄戒躁JS 
+description: 上个礼拜简单的过了下深入浅出ES6有关symbol的章节 过眼不过心 这周打算啃啃同时上周本来打算封装一个弹窗插件的，但是发现一个是自己的知识不够扎实，另一个是眼界不够，偏而不全。所以这个月也打算把javascript设计模式与开发实践》这本书攻下来同时学习设计心理学这一套书并且练习ps。
 ---
 
 ## 第六种原始类型  前面五种是什么?
@@ -48,3 +48,7 @@ console.log(obj[a]);//初来乍到
 好嘛！这可把对象吓了一跳。“大侄子，你这什么玩意!怎么这么不伦不类啊。你这函数不像函数，调用不像调用的。”
 
 不好意思今天到这儿，本猿就懵了……
+
+PS：本来是等前端之巅的文章的但是上周，发现翻译一篇文章还是很费力气的所以这周打算拆分。文章选择为：https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201
+
+已有大大翻译，纯粹练习 http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjQwMzUwMQ%3D%3D%26mid%3D2247484987%26idx%3D1%26sn%3D7f20da20bc6baed62ca8ff115209942b 愿下周前参悟透。落于实处，戒骄戒躁JS 
