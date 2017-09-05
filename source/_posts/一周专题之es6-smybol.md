@@ -49,6 +49,5 @@ console.log(obj[a]);//初来乍到
 
 不好意思今天到这儿，本猿就懵了……
 
-PS：本来是等前端之巅的文章的但是上周，发现翻译一篇文章还是很费力气的所以这周打算拆分。文章选择为：https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201
-
-已有大大翻译，纯粹练习 http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNjQwMzUwMQ%3D%3D%26mid%3D2247484987%26idx%3D1%26sn%3D7f20da20bc6baed62ca8ff115209942b 愿下周前参悟透。落于实处，戒骄戒躁JS 
+【更新-最新前端之巅】最新的前端之巅文章已经推送
+https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
