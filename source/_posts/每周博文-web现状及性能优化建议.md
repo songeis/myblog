@@ -6,8 +6,7 @@ tags:
 - 翻译
 categories:
 - 周翻计划
-description: 等的是最新的前端之巅推送。吸取上一周教训，没事儿的时候翻译两行。先按标题划分下工作量，前端之巅的推送是每周一，每周二开始划分并施工。
-https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
+description: 等的是最新的前端之巅推送。吸取上一周教训，没事儿的时候翻译两行。先按标题划分下工作量，前端之巅的推送是每周一，每周二开始划分并施工。https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
 文章中有些git图，我就不粘过来了，自己去原文看吧。
 ---
 ## 【周二】
@@ -283,3 +282,5 @@ Caring about performance isn’t only a business goal (but if you need to sell i
 As technologists, it’s our responsibility not to hijack attention and time people could be happily spending elsewhere. Our objective is to build tools that are conscious of time and human focus.
 
 Advocating for performance awareness should be everyone’s goal. Let’s build a better, more mindful future for all of us with performance and empathy in mind.
+
+
